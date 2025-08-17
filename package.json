@@ -1,0 +1,41 @@
+{
+  "name": "discord-telegram-sync",
+  "version": "1.0.0",
+  "description": "Бот для полной синхронизации чата Discord с каналом Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "telegram",
+    "bot",
+    "sync",
+    "synchronization",
+    "chat",
+    "messaging"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/discord-telegram-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/discord-telegram-sync/issues"
+  },
+  "homepage": "https://github.com/your-username/discord-telegram-sync#readme"
+}
