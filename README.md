@@ -22,7 +22,7 @@
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/your-username/discord-telegram-sync.git
+git clone https://github.com/w78flezeex/-Discord-Telegram-
 cd discord-telegram-sync
 ```
 
@@ -144,3 +144,4 @@ discord-telegram-sync/
 ---
 
 ⭐ Если проект вам понравился, поставьте звездочку!
+
